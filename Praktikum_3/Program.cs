@@ -6,7 +6,8 @@ namespace Praktikum_3
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //KodeBuah kode = new KodeBuah();
+            Console.WriteLine(KodeBuah.getKodeBuah(KodeBuah.Buah.Semangka));
         }
     }
 }
